@@ -90,7 +90,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Wilsomwong2004/Wilsomwong2004/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Wilsomwong2004/Wilsomwong2004/blob/output/dist/snake.svg" alt="Snake animation" />
 
 ###
 
