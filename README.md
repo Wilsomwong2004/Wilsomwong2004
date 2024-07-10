@@ -39,7 +39,7 @@
 
 ###
 
-<h4 align="left">Programming Languages Learned：</h4>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -75,7 +75,7 @@
 
 ###
 
-<h4 align="left">Github State：</h4>
+<h4 align="left">🔥   My Stats :</h4>
 
 ###
 
