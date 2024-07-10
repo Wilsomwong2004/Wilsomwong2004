@@ -25,7 +25,7 @@
   <a href="https://www.instagram.com/wilsomwong_2004/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/wong-wei-sheng-0983752a7/" target="_blank">
+  <a href="www.linkedin.com/in/wilsomwong/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:wilsomwong040727@gmail.com" target="_blank">
