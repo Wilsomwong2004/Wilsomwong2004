@@ -81,7 +81,7 @@
 
 <hr>
 
-<h4 align="left">🔥   My Stats :</h4>
+<h4 align="left">🔥   My Stats </h4>
 
 ###
 
@@ -93,6 +93,10 @@
 ###
 
 <br clear="both">
+
+<hr>
+
+<h4 align="left">🌟   My Contributions </h4>
 
 <img src="https://github.com/Wilsomwong2004/Wilsomwong2004/blob/output/snake.svg" alt="Snake animation" />
 
