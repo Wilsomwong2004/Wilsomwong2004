@@ -12,7 +12,9 @@
 
 <p align="left">I'm a student, aspiring software engineer, part-time coder, and full-time tech enthusiast. I'm currently studying Information and Communication Technology (ICT) and focusing on honing my skills in software development. Thanks for visiting, and I'd love to connect!</p>
 
-###
+### 
+
+<hr>
 
 <h5 align="left">Connect with me：</h5>
 
@@ -20,24 +22,28 @@
 
 <div align="left">
   <a href="https://www.facebook.com/wilsomwong2004/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/wilsomwong_2004/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/wong-wei-sheng-0983752a7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:wilsomwong040727@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
+<hr>
+
 <p align="left">About Me<br>🌱 I’m constantly learning and improving my skills in software development.<br>💻 My primary focus is on web development and mobile app development.<br>🔧 I enjoy solving problems and building efficient algorithms.<br><br>What I’m Working On<br>📚 Enhancing my knowledge in software engineering.<br>🔭 Working on various projects to apply my skills in real-world scenarios.<br><br>Let's Connect!<br>💬 Feel free to reach out if you have any questions, suggestions, or just want to connect.<br>🤝 Open to collaborations, internships, and project opportunities.<br><br>Fun fact: <br>I am genuinely Malaysian and deeply affectionate for my country.</p>
 
 ###
+
+<hr>
 
 <h4 align="left">🛠 Language and tools</h4>
 
@@ -75,11 +81,11 @@
 
 ###
 
+<hr>
+
 <h4 align="left">🔥   My Stats :</h4>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wilsomwong2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -91,7 +97,6 @@
 <br clear="both">
 
 <img src="https://github.com/Wilsomwong2004/Wilsomwong2004/blob/output/snake.svg" alt="Snake animation" />
-
 
 ###
 
