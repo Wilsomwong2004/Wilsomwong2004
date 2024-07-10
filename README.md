@@ -14,8 +14,6 @@
 
 ### 
 
-<hr>
-
 <h5 align="left">Connect with me：</h5>
 
 ###
