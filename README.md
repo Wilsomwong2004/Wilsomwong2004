@@ -89,9 +89,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://api.badgr.io/public/assertions/BjVAz0joRaCeL2FH8b8UGw?identity__email=wilsomwong040727%40gmail.com">
-        <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/BjVAz0joRaCeL2FH8b8UGw/image" alt="GDSC Certified: Google Workspace Hackathon 2024 Badge">
-      </a>
+      <img width="120px" height="120px" src="https://raw.githubusercontent.com/your-username/your-repo/main/path-to-your-image.png" alt="GDSC Certified: Google Workspace Hackathon 2024 Badge">
     </td>
     <td>
       <strong>GDSC Certified: Google Workspace Hackathon 2024</strong><br>
