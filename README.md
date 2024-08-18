@@ -93,7 +93,7 @@
     <strong  style="font-size: 18px; color: #333;">GDSC Certified: Google Workspace Hackathon 2024</strong><br>
     <span style="font-size: 14px; color: #555;"><strong>Awarded To:</strong> Wong Wei Sheng</span><br>
     <span style="font-size: 14px; color: #555;"><strong>Awarded:</strong> Aug 14, 2024</span><br>
-    <a href="https://badgr.com/public/assertions/BjVAz0joRaCeL2FH8b8UGw" style="display: inline-block; padding: 10px 15px; font-size: 14px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">View Badge</a>
+    <a href="https://api.badgr.com/public/assertions/BjVAz0joRaCeL2FH8b8UGw" style="display: inline-block; padding: 10px 15px; font-size: 14px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">View Badge</a>
   </div>
 </div>
 
