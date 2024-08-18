@@ -87,13 +87,13 @@
 
 <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 10px; max-width: 500px; background-color: #f9f9f9;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img align="left" src=".github/pic/Google Developer Students Club APU - GDSC Certified Google Workspace Hackathon 2024 - 2024-08-14.png" alt="GDSC Certified: Google Workspace Hackathon 2024 Badge" width="90px" height="90px" style="border-radius: 10px;">
+    <img align="left" src=".github/pic/Google Developer Students Club APU - GDSC Certified Google Workspace Hackathon 2024 - 2024-08-14.png" alt="GDSC Certified: Google Workspace Hackathon 2024 Badge" width="100px" height="100px" style="border-radius: 10px;">
   </div>
   <div align="left">
     <strong  style="font-size: 18px; color: #333;">GDSC Certified: Google Workspace Hackathon 2024</strong><br>
     <span style="font-size: 14px; color: #555;"><strong>Awarded To:</strong> Wong Wei Sheng</span><br>
     <span style="font-size: 14px; color: #555;"><strong>Awarded:</strong> Aug 14, 2024</span><br>
-    <a href="https://api.badgr.io/public/assertions/BjVAz0joRaCeL2FH8b8UGw?identity__email=wilsomwong040727%40gmail.com" style="display: inline-block; padding: 10px 15px; font-size: 14px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">View Badge</a>
+    <a href="[https://api.badgr.io/public/assertions/BjVAz0joRaCeL2FH8b8UGw?identity__email=wilsomwong040727%40gmail.com](https://api.badgr.io/public/assertions/BjVAz0joRaCeL2FH8b8UGw?identity__email=wilsomwong040727%40gmail.com)" style="display: inline-block; padding: 10px 15px; font-size: 14px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">View Badge</a>
   </div>
 </div>
 
