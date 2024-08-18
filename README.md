@@ -91,8 +91,8 @@
   </div>
   <div>
     <strong style="font-size: 18px; color: #333;">GDSC Certified: Google Workspace Hackathon 2024</strong><be>
-    <span style="font-size: 14px; color: #555;"><strong>Awarded To:</strong> Wong Wei Sheng</span>
-    <span style="font-size: 14px; color: #555;"><strong>Awarded:</strong> Aug 14, 2024</span><br>
+    <span style="font-size: 14px; color: #555;"><strong>Awarded To:</strong> Wong Wei Sheng</span><br>
+    <span style="font-size: 14px; color: #555;"><strong>Awarded:</strong> Aug 14, 2024</span>
   </div>
 </div>
 
