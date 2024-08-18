@@ -87,7 +87,7 @@
 
 <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 10px; max-width: 500px; background-color: #f9f9f9;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src=".github/pic/Google Developer Students Club APU - GDSC Certified Google Workspace Hackathon 2024 - 2024-08-14.png" alt="GDSC Certified: Google Workspace Hackathon 2024 Badge" width="120px" height="120px" style="border-radius: 10px;"><a href="https://api.badgr.io/public/assertions/BjVAz0joRaCeL2FH8b8UGw?identity__email=wilsomwong040727%40gmail.com">
+    <img align="left" src=".github/pic/Google Developer Students Club APU - GDSC Certified Google Workspace Hackathon 2024 - 2024-08-14.png" alt="GDSC Certified: Google Workspace Hackathon 2024 Badge" a href="https://api.badgr.io/public/assertions/BjVAz0joRaCeL2FH8b8UGw?identity__email=wilsomwong040727%40gmail.com" width="120px" height="120px" style="border-radius: 10px;">
   </div>
   <div>
     <strong style="font-size: 18px; color: #333;">GDSC Certified: Google Workspace Hackathon 2024</strong><br>
