@@ -86,11 +86,20 @@
 ###
 
 <div align="left">
-[![GDSC Certified: Google Workspace Hackathon 2024](https://api.badgr.io/public/assertions/BjVAz0joRaCeL2FH8b8UGw/image)](https://api.badgr.io/public/assertions/BjVAz0joRaCeL2FH8b8UGw?identity__email=wilsomwong040727%40gmail.com)
-
-**GDSC Certified: Google Workspace Hackathon 2024**  
-**Awarded:** Aug 14, 2024  
-**Awarded To:** Wong Wei Sheng
+<table>
+  <tr>
+    <td>
+      <a href="https://api.badgr.io/public/assertions/BjVAz0joRaCeL2FH8b8UGw?identity__email=wilsomwong040727%40gmail.com">
+        <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/BjVAz0joRaCeL2FH8b8UGw/image" alt="GDSC Certified: Google Workspace Hackathon 2024 Badge">
+      </a>
+    </td>
+    <td>
+      <strong>GDSC Certified: Google Workspace Hackathon 2024</strong><br>
+      <strong>Awarded:</strong> Aug 14, 2024<br>
+      <strong>Awarded To:</strong> Wong Wei Sheng
+    </td>
+  </tr>
+</table>
 </div>
 
 <hr>
