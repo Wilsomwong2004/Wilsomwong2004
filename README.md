@@ -89,7 +89,7 @@
 <table>
   <tr>
     <td>
-      <img width="120px" height="120px" src="https://raw.githubusercontent.com/your-username/your-repo/main/path-to-your-image.png" alt="GDSC Certified: Google Workspace Hackathon 2024 Badge">
+      <img width="120px" height="120px" src=".github/pic/Google Developer Students Club APU - GDSC Certified Google Workspace Hackathon 2024 - 2024-08-14.png" alt="GDSC Certified: Google Workspace Hackathon 2024 Badge">
     </td>
     <td>
       <strong>GDSC Certified: Google Workspace Hackathon 2024</strong><br>
