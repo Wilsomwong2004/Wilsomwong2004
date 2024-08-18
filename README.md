@@ -90,9 +90,9 @@
     <img align="left" src=".github/pic/Google Developer Students Club APU - GDSC Certified Google Workspace Hackathon 2024 - 2024-08-14.png" alt="GDSC Certified: Google Workspace Hackathon 2024 Badge" a href="https://api.badgr.io/public/assertions/BjVAz0joRaCeL2FH8b8UGw?identity__email=wilsomwong040727%40gmail.com" width="120px" height="120px" style="border-radius: 10px;">
   </div>
   <div>
-    <strong style="font-size: 18px; color: #333;">GDSC Certified: Google Workspace Hackathon 2024</strong><br>
-    <span style="font-size: 14px; color: #555;"><strong>Awarded To:</strong> Wong Wei Sheng</span><br>
-    <span style="font-size: 14px; color: #555;"><strong>Awarded:</strong> Aug 14, 2024</span>
+    <strong align="left" style="font-size: 18px; color: #333;">GDSC Certified: Google Workspace Hackathon 2024</strong><br>
+    <span align="left" style="font-size: 14px; color: #555;"><strong>Awarded To:</strong> Wong Wei Sheng</span><br>
+    <span align="left" style="font-size: 14px; color: #555;"><strong>Awarded:</strong> Aug 14, 2024</span>
   </div>
 </div>
 
