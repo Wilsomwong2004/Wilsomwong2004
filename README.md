@@ -83,6 +83,8 @@
 
 <h4 align="left">🎖️   My Badge </h4>
 
+<hr>
+
 ###
 
 <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 10px; max-width: 500px; background-color: #f9f9f9;">
