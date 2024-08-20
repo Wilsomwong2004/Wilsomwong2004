@@ -83,8 +83,6 @@
 
 <h4 align="left">🎖️   My Badge </h4>
 
-<hr>
-
 ###
 
 <div style="display: flex; align-items: center; border: 1px solid #ddd; border-radius: 10px; padding: 10px; max-width: 500px; background-color: #f9f9f9;">
@@ -98,6 +96,8 @@
     <a href="https://api.badgr.com/public/assertions/BjVAz0joRaCeL2FH8b8UGw" style="display: inline-block; padding: 10px 15px; font-size: 14px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">View Badge</a>
   </div>
 </div>
+
+### 
 
 <hr>
 
