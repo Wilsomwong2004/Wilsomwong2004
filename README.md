@@ -22,7 +22,7 @@
   <a href="https://www.facebook.com/wilsomwong2004/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/wilsomwong_2004/" target="_blank">
+  <a href="https://www.instagram.com/wilsom_ws/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/wilsomwong/" target="_blank">
