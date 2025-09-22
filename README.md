@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a student, aspiring software engineer, part-time coder, and full-time tech enthusiast. I'm currently studying Information and Communication Technology (ICT) and focusing on honing my skills in software development. Thanks for visiting, and I'd love to connect!</p>
+<p align="left">I'm a student, aspiring software engineer, part-time coder, and full-time tech enthusiast. I'm currently studying Bacherlors of Software Engineering and focusing on honing my skills in software development. Thanks for visiting, and I'd love to connect!</p>
 
 ### 
 
