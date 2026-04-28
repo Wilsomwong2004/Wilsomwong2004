@@ -99,11 +99,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/Wilsomwong2004/count.svg?"  />
-</div>
-
-###
+</div> -->
 
 <h4 align="center">Thank you for visiting my GitHub profile! Happy coding! 🚀</h4>
 
